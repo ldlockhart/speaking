@@ -1,0 +1,10 @@
+# Fullstack from the back: A Java-driven approach to building web applications
+
+It's traditional to think of building a web app beginning with front end technologies such at HTML, CSS, and Javascript.  The Vaadin platform
+flips that idea on it's head and offers solutions built around Java, a backend language.
+
+In this session featuring live-coded examples, we'll dive into how Vaadin's web frameworks, Flow and Hilla, can help developers build complex web apps. 
+We'll explore how these frameworks put the power in java developer's hands by either building web apps purely in Java, or
+in a format utilizing Spring Boot and React in a single project. We'll show how to leverage Vaadin's web components as the core elements to build UIs that are 
+both functional out of the box and customizable. 
+
