@@ -3,6 +3,6 @@
 It's traditional to think of building a web app beginning with front end technologies such at HTML, CSS, and Javascript. The Vaadin platform
 flips that idea on it's head and offers solutions built around Java, a backend language.
 
-In this session featuring live-coded examples, we'll dive into how Vaadin's web frameworks, Flow and Hilla, can help developers build feature-rich web apps. 
+In this session featuring live-coded examples, we'll dive into how Vaadin's web frameworks, Flow and Hilla, can help developers build feature-rich web apps.
 We'll explore how these frameworks put the power in Java developer's hands by either building web apps purely in Java, or
 by combining Spring Boot and React in a single full-stack project. We'll show how to use Vaadin's web components as the building blocks to build awesome UIs.
