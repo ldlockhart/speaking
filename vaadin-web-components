@@ -2,9 +2,9 @@
 
 Ever wondered how to build user interfaces that not only look good but are also modular 
 and easily integrated into different technology stacks? This talk will walk you through
-a practical approach to UI development using the open-source Vaadin Web Components.
+a practical approach to UI development using the open-source Java-based Vaadin Web Components.
 
-You'll learn how these components can be seamlessly used with Vaadin frameworks Flow and
+You'll learn how these components can be seamlessly used with Java frameworks Flow and
 Hilla as well as popular JavaScript frameworks like React and Angular, and Vue.js, 
 thanks to their framework-agnostic nature. The session will 
 guide you through hands-on coding examples, showing you how to incorporate Vaadin components 
