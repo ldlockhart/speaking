@@ -6,7 +6,7 @@ What you'll learn:
 Shared type systems: How Vaadin eliminates the need for separate data models on the frontend and backend, reducing errors and development time.
 Effortless data binding: See how to connect UI components directly to your Java data models with minimal code.
 Server-side UI updates: Discover how Vaadin handles UI updates with WebSocckets and Server Push, minimizing client-side load and improving performance.
-BrowserCallable: Vaadin's annoatation for making backend methods avaible to the frontend through Typescript interfaces
+BrowserCallable: Vaadin's annoatation for making backend methods available to the frontend through Typescript interfaces.
 
 Walk away with:
 Practical techniques for building full-stack Java applications with less code and greater efficiency.
