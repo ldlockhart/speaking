@@ -1,6 +1,6 @@
 # How to Get Your Backend and Frontend talking the Easy Way
 
-If you're tired of wrestling with REST APIs, GraphQL, or the latest JavaScript framework just to get your backend and frontend to communicate, this session is for you.  We'll dive into Vaadin, a Java framework that simplifies full-stack web development by abstracting away the complexities of client-server communication.
+If you're tired of wrestling with REST APIs, GraphQL, or the latest JavaScript framework just to get your backend and frontend to communicate, this session is for you.  We'll dive into Vaadin, a Java platform that simplifies full-stack web development by abstracting away the complexities of client-server communication.
 
 What you'll learn:
 Shared type systems: How Vaadin eliminates the need for separate data models on the frontend and backend, reducing errors and development time.
