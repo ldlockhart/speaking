@@ -1,15 +1,10 @@
-# How to Get Your Backend and Frontend talking the Easy Way
+# Java-centric Full-Stack Development:  Simplifying Client-Server Communication with Vaadin
 
-If you're tired of wrestling with REST APIs, GraphQL, or the latest JavaScript framework just to get your backend and frontend to communicate, this session is for you.  We'll dive into Vaadin, a Java platform that simplifies full-stack web development by abstracting away the complexities of client-server communication.
+Ever feel like you're spending more time wiring up your frontend and backend than actually building features?  If you're a Java developer, Vaadin might be the solution you're looking for. In this session, we'll explore how Vaadin streamlines full-stack development by abstracting away the complexities of client-server communication.
 
-What you'll learn:
-Shared type systems: How Vaadin eliminates the need for separate data models on the frontend and backend, reducing errors and development time.
-Effortless data binding: See how to connect UI components directly to your Java data models with minimal code.
-Server-side UI updates: Discover how Vaadin handles UI updates with WebSocckets and Server Push, minimizing client-side load and improving performance.
-BrowserCallable: Vaadin's annoatation for making backend methods available to the frontend through Typescript interfaces.
-
-Walk away with:
-Practical techniques for building full-stack Java applications with less code and greater efficiency.
-Insights into how Vaadin can improve your team's productivity and reduce development friction.
-Whether you're a seasoned Java developer or exploring full-stack options, this session will equip you with the knowledge to streamline your web development workflow and build modern applications with ease.
+Here's what we'll cover:
+Shared type systems: See how Vaadin allows you to use your Java data models directly in the frontend, eliminating the need for separate TypeScript interfaces and reducing data mapping headaches.
+Simplified data binding: Learn how to bind UI components to your Java data with minimal effort, making UI updates a breeze.
+Efficient UI updates: Dive into Vaadin's server-side architecture and how it leverages WebSockets and server push to optimize UI updates and reduce client-side load.
+@BrowserCallable: Explore this powerful annotation that exposes your backend Java methods directly to the frontend via automatically generated TypeScript interfaces.
 
