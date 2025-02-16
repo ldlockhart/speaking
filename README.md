@@ -7,9 +7,11 @@ Lawrence Lockhart is a Java Developer and Developer Advocate who shares solution
 - [Twitter](https://twitter.com/LawrenceDCodes)
 - [LinkedIn](https://linkedin.com/in/lawrencelockhart)
 
+## Speaking Engagement
+- [Speaking Engagements](https://docs.google.com/document/d/13-bjFpolSczo2aA4r4vte_kYdlIHQteYuvPP8LlRQfM/edit?usp=sharing)
+
 ## Headshot
 ![Headshot](headshot_lawrence.png)
 
-## Speaking Engagement
-- [Speaking Engagements](https://docs.google.com/document/d/13-bjFpolSczo2aA4r4vte_kYdlIHQteYuvPP8LlRQfM/edit?usp=sharing)
+
   
