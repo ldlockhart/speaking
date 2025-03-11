@@ -1,4 +1,4 @@
-#Come and Talk to Me: The RnB Guide to Java Web App
+# Come and Talk to Me: The RnB Guide to Java Web App
 
 
 Ever feel like you're spending more time wiring up your frontend and backend than actually building features? If you're a Java developer, Vaadin might be the solution you're looking for. In this session, we'll take clues from popular RnB songs as a guide to streamlining full-stack development by abstracting away the complexities of client-server communication.
