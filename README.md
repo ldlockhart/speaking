@@ -11,7 +11,7 @@ Lawrence Lockhart is a Software Developer who loves sharing solutions to modern 
 - [Speaking Engagements](https://docs.google.com/document/d/13-bjFpolSczo2aA4r4vte_kYdlIHQteYuvPP8LlRQfM/edit?usp=sharing)
 
 ## Headshot
-![Headshot](headshot_lawrence.png)
+![Headshot](lawrenceheadshot.jpeg)
 
 
   
