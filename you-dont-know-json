@@ -1,6 +1,6 @@
 * You Don't Know JSON: How to Grow From Syntax to Superpowers
 
-Every JavaScript and Node.js developer on earth uses JSON daily. We treat it as the simple, ubiquitous format for transferring data. But what if that's like using a supercar just to drive to the grocery store? Most of us are only scratching the surface of what JSON is truly capable of.
+Every JavaScript and Node.js developer on earth uses JSON on a regular basis. We treat it as the simple, ubiquitous format for transferring data. But what if that's like using a supercar just to drive to the grocery store? Most of us are only scratching the surface of what JSON is truly capable of.
 
 This talk goes beyond the basics of key-value pairs. We'll dive deep into the powerful, lesser-known patterns that transform JSON from a simple data format into a robust tool for building scalable, resilient applications. We will explore using JSON Schema for ironclad data validation 
 and contract testing in your Node.js backend. We'll uncover how to leverage JSON as a Domain-Specific Language (DSL) to define complex configurations and even entire UI layouts, decoupling your logic from your presentation.
