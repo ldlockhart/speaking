@@ -1,0 +1,12 @@
+* When a 'Quick Feature' Isn’t: Deconstructing the True Cost of Your Unplanned UI
+
+It starts with a seemingly innocent request: "Can you just add a rich text editor?" or "Let's show a few basic charts." Every experienced developer knows this story. 
+The initial "build vs. buy" calculation seems simple. But sprint by sprint, the simple UI component snowballs. It needs to handle edge cases, meet accessibility standards, 
+and soon, it requires its own admin panel to manage templates and permissions.
+
+Before you know it, your team isn't just shipping your core product; you are now the accidental product manager for a sprawling, complex UI feature you never planned, 
+budgeted for, or properly architected. This "unplanned feature" becomes a black hole for resources, and its code is the costliest of all—not in dollars, but in lost velocity, 
+core product delays, and mounting technical debt.
+
+This session deconstructs this common anti-pattern, following a "simple" UI component on its journey to becoming a six-figure roadmap hijacker and a solution to avoid this 
+painful trap.
