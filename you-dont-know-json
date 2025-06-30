@@ -1,0 +1,9 @@
+* You Don't Know JSON: How to Grow From Syntax to Superpowers
+
+Every JavaScript and Node.js developer on earth uses JSON daily. We treat it as the simple, ubiquitous format for transferring data. But what if that's like using a supercar just to drive to the grocery store? Most of us are only scratching the surface of what JSON is truly capable of.
+
+This talk goes beyond the basics of key-value pairs. We'll dive deep into the powerful, lesser-known patterns that transform JSON from a simple data format into a robust tool for building scalable, resilient applications. We will explore using JSON Schema for ironclad data validation 
+and contract testing in your Node.js backend. We'll uncover how to leverage JSON as a Domain-Specific Language (DSL) to define complex configurations and even entire UI layouts, decoupling your logic from your presentation.
+
+To make these concepts tangible, we'll conclude with a real-world case study: a deep dive into how the visual content builder Beefree SDK uses a JSON-first architecture as its source of truth. We'll see how this enables powerful features like a server-side HTML Importer and dynamic 
+Content Services APIs, all powered by the advanced JSON patterns we just learned. Leave this session with a new appreciation for the tool you use every day and a new set of superpowers to apply to your own projects.
