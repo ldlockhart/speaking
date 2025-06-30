@@ -1,0 +1,8 @@
+*Put Some Soul In The Machine
+
+I saw an AI generate in 30 seconds what would have taken me a day to code. My first thought: "Is my job over?" My second: "Is the era of human creativity in software development finished?" This talk is my answer. 
+It's a manifesto for every developer grappling with a world where code is becoming a commodity. I argue that our value is no longer in our ability to write code, but in our unique capacity to impart soul into the systems we build.
+
+This session is not a tutorial on prompting. It's a live, emotional, and deeply technical journey to prove that developers are the irreplaceable guardians of quality, taste, and empathy in the age of AI. We will 
+start with nothing but a command line and prompt an AI to create a UI live on stage. Then, we will architect the "curation layer"—the human-in-the-loop system—that transforms the AI's cold, logical output into a 
+polished, on-brand, and soulful user experience, deploying it to a public URL in our finale. This is our new job: building the factories that give AI's output a purpose. Join me for a look at the future of our craft.
