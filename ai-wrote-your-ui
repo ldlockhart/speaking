@@ -1,0 +1,9 @@
+*So, AI Wrote Your UI - NOW WHAT?
+
+AI tools can now generate UI code and layouts in seconds, promising unprecedented development speed. But this new power comes with a critical new question for developers: once the AI's job is done, what happens next? 
+The raw output is often a "beautiful mess"—a black box of non-semantic code, inconsistent styling, and hardcoded content that is brittle and difficult for non-technical teammates to manage. Shipping this directly is 
+not an option.
+
+This session is a developer's playbook for mastering the "last mile" of AI-generated UI. We'll move beyond the initial "wow" of generation and dive into the essential next step: building a robust curation and control 
+layer. Through live, code-heavy demonstrations, we will architect a workflow that ingests raw AI output (like generated HTML) and uses an embeddable visual builder SDK to transform it into a structured, editable, and 
+production-ready asset.
